@@ -7,4 +7,5 @@ Un blog increible para el curso
 - Github
 - Colaboradores
 - Merge
+- Github pages
 
